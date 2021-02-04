@@ -1,4 +1,4 @@
-# testest
+# Among C Compiler
 
 ## Project setup
 ```
