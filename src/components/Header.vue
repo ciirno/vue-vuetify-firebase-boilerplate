@@ -2,10 +2,9 @@
 	<v-app-bar
 		app
 		absolute
-		color="blue darken-4"
-		dark
-		class="text-h5 font-weight-bold"
-		>Random Name Generator</v-app-bar
+		color="primary"
+		class="text-h5 font-weight-bold white--text"
+		>Among C</v-app-bar
 	>
 </template>
 

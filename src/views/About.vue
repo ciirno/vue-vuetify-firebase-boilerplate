@@ -2,9 +2,9 @@
 	<v-app>
 		<Header />
 		<v-main>
-			This is about page and this is very waw
+			
 		</v-main>
-		<v-footer></v-footer>
+		<v-footer>Among C &copy; 2021</v-footer>
 	</v-app>
 </template>
 
@@ -17,5 +17,3 @@
 		},
 	};
 </script>
-
-<style></style>
