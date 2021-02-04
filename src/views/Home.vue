@@ -3,7 +3,7 @@
 		<Header />
 		<v-main>
 			<v-container>
-				
+				<p>Kendrell was here hehehehe</p>
 			</v-container>
 		</v-main>
 		<v-footer>Among C &copy; 2021</v-footer>
